@@ -1,0 +1,35 @@
+.about{
+    font-weight: 700;
+    font-stretch: expanded;
+    padding-top: 40px;
+}
+.para{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.para1{
+    font-weight: 150px;
+}
+p.double{
+    border-style: double;
+    border-color: orange;
+    border-width: 5px;
+}
+div.double{
+    border-style: solid;
+    border-color: orange;
+}
+button:hover{
+    cursor: pointer;
+    border: none;
+    cursor: -moz-zoom-in;
+    text-decoration:underline;
+}
+.btn{
+    border: none;
+}
+.a
+{
+    text-decoration: none;
+    color: black;
+}
